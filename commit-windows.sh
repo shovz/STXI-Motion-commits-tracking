@@ -11,8 +11,8 @@ sunday="7"
 ################################################
 
 # You can change these variables to change the start and end dates of the commits
-start_date="2023-01-08"
-end_date="2024-09-15"
+start_date="2024-10-07"
+end_date="2025-04-10"
 
 # You can choose to exclude certain days of the week from having commits. You can exclude up to 3 days.
 exclude_days=("$saturday" "$friday")
